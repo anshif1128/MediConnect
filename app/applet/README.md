@@ -1,5 +1,11 @@
 # MediConnect: AI-Assisted Clinical Case-Taking & Unified Patient Health Record
 
+[![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com)
+[![Language](https://img.shields.io/badge/Language-Kotlin%20100%25-purple.svg)](https://kotlinlang.org)
+[![UI Framework](https://img.shields.io/badge/UI-Jetpack%20Compose%20M3-blue.svg)](https://developer.android.com/jetpack/compose)
+[![Compliance](https://img.shields.io/badge/Standards-ABDM%20%2F%20FHIR%20R4%20%2F%20AIIA-teal.svg)](https://abdm.gov.in)
+[![Hackathon](https://img.shields.io/badge/SIH-Problem%20Statement%2026047-orange.svg)](https://sih.gov.in)
+
 > **Smart India Hackathon (SIH) Prototype**  
 > **Problem Statement ID:** 26047 — *"Patient Case-Taking Software"*  
 > **Ministry / Department:** Ministry of Ayush / All India Institute of Ayurveda (AIIA)  
@@ -11,7 +17,7 @@
 
 > **ONE PATIENT → ONE DIGITAL HEALTH HISTORY → SECURE ACCESS ACROSS GOVERNMENT HOSPITALS**
 
-In public healthcare, patients often visit **Hospital A** (e.g., Coimbatore) today and **Hospital B** (e.g., Madurai) weeks later. Currently, they carry paper prescriptions, lose previous laboratory reports, and have to repeatedly explain their medical history from scratch.
+In public healthcare, patients often visit **Hospital A** (e.g., Coimbatore) today and **Hospital B** (e.g., Madurai) weeks later. Currently, they carry paper prescriptions, lose previous laboratory reports, and have to explain their entire medical history from scratch.
 
 **MediConnect** solves this "first-mile" healthcare problem:
 1. Digitize previous prescriptions, blood tests, and scans into an encrypted longitudinal timeline.

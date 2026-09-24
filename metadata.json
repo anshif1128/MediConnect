@@ -1,0 +1,6 @@
+{
+  "name": "MediConnect",
+  "description": "Patient Case-Taking & Cross-Hospital Digital Health Record Platform with AI Assistance (SIH 26047)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
